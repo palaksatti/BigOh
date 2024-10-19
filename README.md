@@ -24,4 +24,10 @@ Users can enter their name and submit the form. If the name is missing, an alert
 
 If the images fail to load (due to a network error or other issues), a friendly alert informs the user, maintaining clear communication and guidance.
 
-🖥️ Installation To run the project locally: Clone the repository. Open the project in Xcode. Make sure to have the required CocoaPods libraries installed: pod install Run the app on your preferred simulator or device.
+🖥️ Installation
+
+To run the project locally: 
+Clone the repository.
+Open the project in Xcode.
+Make sure to have the required CocoaPods libraries installed: pod install
+Run the app on your preferred simulator or device.
